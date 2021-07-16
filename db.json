@@ -1,0 +1,60 @@
+{
+    "cursos":[
+        {
+            "id": 1, 
+            "titulo": "Como conquistar a una mujer", 
+            "imagen": "https://images.pexels.com/photos/2774197/pexels-photo-2774197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+            "price":40, 
+            "profesor": "Alberto Basques"
+        }, 
+        {
+            "id": 2, 
+            "titulo": "Como conservar un BMW", 
+            "imagen": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+            "price": 40, 
+            "profesor": "Jose Herrera"
+        }, 
+        {
+            "id": 1, 
+            "titulo": "Rompiendo tus limites", 
+            "imagen": "https://images.pexels.com/photos/1144864/pexels-photo-1144864.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+            "price":40, 
+            "profesor": "Jose Alfredo"
+        }, 
+        {
+            "id": 2, 
+            "titulo": "Concentrado", 
+            "imagen": "https://images.pexels.com/photos/3490348/pexels-photo-3490348.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+            "price": 40, 
+            "profesor": "El entrenaodr Joberto Rojas"
+        }, 
+        {
+            "id": 1, 
+            "titulo": "El negro mas Mamado que e Visto en mi vida", 
+            "imagen": "https://images.pexels.com/photos/935965/pexels-photo-935965.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+            "price":40, 
+            "profesor": "Enrique Murpy"
+        }, 
+        {
+            "id": 2, 
+            "titulo": "Una morra que esta bien Sabrosa", 
+            "imagen": "https://images.pexels.com/photos/4056534/pexels-photo-4056534.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260", 
+            "price": 40, 
+            "profesor": "La morrita de Chinos Sabroza"
+        }, 
+        {
+            "id": 1, 
+            "titulo": "El negro que esta super super mamado", 
+            "imagen": "https://images.pexels.com/photos/1978505/pexels-photo-1978505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+            "price":40, 
+            "profesor": "Un negrito que tiene al parecer la misma masa muscular que yo"
+        }, 
+        {
+            "id": 2, 
+            "titulo": "Un wey con barba Mamado", 
+            "imagen": "https://images.pexels.com/photos/3253498/pexels-photo-3253498.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", 
+            "price": 40, 
+            "profesor": "Jose Herrrera"
+        }
+    ]
+}
